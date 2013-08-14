@@ -1,3 +1,0 @@
-[submodule "meetup"]
-	path = meetup
-	url = https://github.com/meetup/python-api-client.git
